@@ -11,6 +11,14 @@ This program filled me with excitement and was full of ambitions to achieve my g
 From 9:30 to 11:30 we gave our english and maths proficiency test .After that , we went to the auditorium. There was an expert lecture of Dr Arshdeep singh  sir on "Food".Than we came to know about Satya scholarship .After that, the members of causmic club taught us how to create an account and new repository on github .
 # Day-3
 At 9 am we reached the auditorium. There was an expert lecture by Dr Jaswinder Singh sir (incharge-IAPT ).Sir taught us that everything around us have mathematics.
-Dr Jaswinder Singh sir ,Lecturer Physics, Government School Sheikupuria village whose ‘Lab On Wheels’, the mobile car laboratory is becoming a fascination for the students around the state and that to free of cost. Dr. Jaswinder Singh sir is a National Awardee by Department of Science and Technology, Government of India and by Hon’ble President of India. He is also conferred with many other prestigious awards like Governor’s Award, College Colour, University Colour, Best Camper and Best organizer NSS Shresth Acharya Award etc.
+Dr Jaswinder Singh sir ,Lecturer Physics, Government School Sheikupuria village whose ‘Lab On Wheels’, the mobile car laboratory is becoming a fascination for the students around the state and that to free of cost. Dr. Jaswinder Singh sir is a National 
+Awardee by Department of Science and Technology, Government of India and by Hon’ble President of India. He is also conferred with many other prestigious awards like Governor’s Award, College Colour, University Colour, Best Camper and Best organizer NSS Shresth Acharya Award etc.
 After that there was an expert lecture by Dr Priya Darshani mam on "Universal Human Values ".
 Mam taught us about basic human aspirations and its fulfillment.
+#Day-4
+Our first lecture was of P2P.In this lecture our seniors taught us about C++.
+We done practical.We printed our first code 'hello' .They gave us homework also.
+Second lecture was of BEEE by prof.Baljinder sir .They taught us about the syllabus, modules and books of BEEE.
+After a break, we went to auditorium for the expert lecture by Dr Priya Darshani mam based on UHV (universal human values ) .It was very interesting lecture. Then the members of causmic club gave us knowledge about their club.
+#Day-5
+
