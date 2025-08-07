@@ -21,4 +21,21 @@ We done practical.We printed our first code 'hello' .They gave us homework also.
 Second lecture was of BEEE by prof.Baljinder sir .They taught us about the syllabus, modules and books of BEEE.
 After a break, we went to auditorium for the expert lecture by Dr Priya Darshani mam based on UHV (universal human values ) .It was very interesting lecture. Then the members of causmic club gave us knowledge about their club.
 # Day-5
+At 9:30, We reached our classes .Our first lecture was of chemistry by prof .Mandeep Kaur mam. Mam taught us what's the meaning of chemistry? Mam tells us about the marking scheme for chemistry exam.Mam asked questions from us also.
+At 10:30, it was our english lecture by Prof.Nisha mam .Mam was very nice .Mam told us syllabus of english.Mam had taken our introduction also.Mam gave us some key points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
