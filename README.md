@@ -15,10 +15,10 @@ Dr Jaswinder Singh sir ,Lecturer Physics, Government School Sheikupuria village 
 Awardee by Department of Science and Technology, Government of India and by Hon’ble President of India. He is also conferred with many other prestigious awards like Governor’s Award, College Colour, University Colour, Best Camper and Best organizer NSS Shresth Acharya Award etc.
 After that there was an expert lecture by Dr Priya Darshani mam on "Universal Human Values ".
 Mam taught us about basic human aspirations and its fulfillment.
-#Day-4
+# Day-4
 Our first lecture was of P2P.In this lecture our seniors taught us about C++.
 We done practical.We printed our first code 'hello' .They gave us homework also.
 Second lecture was of BEEE by prof.Baljinder sir .They taught us about the syllabus, modules and books of BEEE.
 After a break, we went to auditorium for the expert lecture by Dr Priya Darshani mam based on UHV (universal human values ) .It was very interesting lecture. Then the members of causmic club gave us knowledge about their club.
-#Day-5
+# Day-5
 
